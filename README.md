@@ -1,5 +1,6 @@
 # AI Fraud Detection System
-
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
 ## 🚀 Overview
 A Spring Boot based backend system that detects fraudulent transactions using rule-based risk scoring.
 
